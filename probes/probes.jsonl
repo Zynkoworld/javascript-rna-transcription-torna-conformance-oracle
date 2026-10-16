@@ -1,0 +1,6 @@
+{"input": "", "expect": "", "raised": false, "task": "rna-transcription", "lang": "javascript"}
+{"input": "C", "expect": "G", "raised": false, "task": "rna-transcription", "lang": "javascript"}
+{"input": "G", "expect": "C", "raised": false, "task": "rna-transcription", "lang": "javascript"}
+{"input": "T", "expect": "A", "raised": false, "task": "rna-transcription", "lang": "javascript"}
+{"input": "A", "expect": "U", "raised": false, "task": "rna-transcription", "lang": "javascript"}
+{"input": "ACGTGGTCTTAA", "expect": "UGCACCAGAAUU", "raised": false, "task": "rna-transcription", "lang": "javascript"}
